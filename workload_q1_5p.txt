@@ -1,0 +1,5 @@
+p1_fcfs 0 10 100
+p2_fcfs 10 10 50
+p3_fcfs 20 10 50
+p4_fcfs 30 10 50
+p5_fcfs 40 10 10
